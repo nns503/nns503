@@ -1,4 +1,4 @@
-## Hi there 👋
+## NNS503
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nns503)](https://solved.ac/nns503/)
 <!--
