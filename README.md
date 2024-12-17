@@ -1,5 +1,7 @@
 ## NNS503
 
+안녕 나다
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nns503)](https://solved.ac/nns503/)
 <!--
 **nns503/nns503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
