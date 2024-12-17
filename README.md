@@ -1,6 +1,6 @@
 ## NNS503
 
-안녕 나다
+안녕하세요
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nns503)](https://solved.ac/nns503/)
 <!--
